@@ -8,3 +8,4 @@
 
 # 5th commit - making a views folder for the ejs template for the index page, studying the code.
 
+# 6th commit - studying the code and it's complexity, making add, edit, list pages.
