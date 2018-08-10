@@ -5,3 +5,6 @@
 # 3rd commit -  setting routes, modules, the libraries to use on the application.
 
 # 4th commit - routes code to show content of index page and also the product page.
+
+# 5th commit - making a views folder for the ejs template for the index page, studying the code.
+
