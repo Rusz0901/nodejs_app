@@ -12,7 +12,9 @@
 
 # 7th commit - editing, studying nodejs code, syntax complexity, list view loop.
 
+# 8th commit - SQL FILE.
 
 
 
-studying a template code (crud) that is already made... editing and etc.
+
+# studying a template code (crud) that is already made... editing and etc.
